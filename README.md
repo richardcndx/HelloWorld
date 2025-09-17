@@ -2,3 +2,5 @@ This is the README file for the GitHub Project tutorial. with some JS files uplo
 
 Line for addition 1
 Line for addition 2
+
+Line for addition 3
