@@ -1,1 +1,0 @@
-This is the README file for the GitHub Project tutorial. with some JS files uploaded.
